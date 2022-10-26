@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Idea files
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
